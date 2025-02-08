@@ -4,8 +4,8 @@
 
 ## Live Demo & Links
 
-- Live Site URL: [Add your deployed site URL here]
-- GFE Profile: [Add your profile URL here]
+- Live Site URL: https://eihabkhan.github.io/gfe-projects-testimonial-card/
+- GFE Profile: https://www.greatfrontend.com/projects/u/eihab
 
 ## Getting Started
 
